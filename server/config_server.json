@@ -1,0 +1,7 @@
+{
+	"serverPort": 1314,
+	"clientPort": 11314,
+	"idString": "WhereAreYou",
+	"responseString": "ImHere",
+	"additionalString": "device 1"
+}

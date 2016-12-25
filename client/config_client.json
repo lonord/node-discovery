@@ -1,0 +1,8 @@
+{
+	"serverPort": 1314,
+	"clientPort": 11314,
+	"idString": "WhereAreYou",
+	"responseString": "ImHere",
+	"timeout": 3000,
+	"broadcastAddr": "255.255.255.255"
+}
